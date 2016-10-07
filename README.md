@@ -1,6 +1,6 @@
 # Todo-js
 
-## webpack+javascript
+### Webpack+JavaScript(es6)+Sass  不依赖jquery等第三方库,完成一个按需加载的TodoMVC
 
 ### 前端环境搭建
 
@@ -24,4 +24,4 @@
 
 > `cnpm run dev` 开发 访问localhost:8080
 
-> `cnpm build` 生产
+> `cnpm run build` 生产
